@@ -50,7 +50,7 @@
     <key>NSLocationAlwaysUsageDescription</key>
     <string>We need access to your location for background tracking and services.</string>
     <key>GMSApiKey</key>
-    <string>AIzaSyCHJwjZjGSOBc18-3mJM8tCqDYoV3Nk9tQ</string>
+    <string></string>
 
 </dict>
 </plist>

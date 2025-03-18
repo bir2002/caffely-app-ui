@@ -18,7 +18,7 @@ class _EmojiScreenState extends State<EmojiScreen> {
   final Set<Polyline> _polylines = {};
   final LatLng _origin = const LatLng(37.7749, -122.4194);
   final LatLng _destination = const LatLng(34.0522, -118.2437);
-  final String _apiKey = 'AIzaSyCHJwjZjGSOBc18-3mJM8tCqDYoV3Nk9tQ';
+  final String _apiKey = '';
 
   @override
   void initState() {
